@@ -1,0 +1,40 @@
+.main {
+    background-image: url(../img/boat-4899802_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 641px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_container {
+    border: 1.5px solid #fff;
+    /*background-color: #fff;
+    opacity: 0.7;*/
+    text-align: center;
+    padding: 45px 40px;
+    margin: 0 40px;
+}
+.main_text {
+    color: #fff;
+    font-size: 28px;
+    letter-spacing: 2.2px;    
+    text-transform: uppercase;
+}
+.sub_main_text {
+    color: #fff;
+    padding: 10px 0;
+    letter-spacing: 16.5px;
+    font-size: 14px;
+    text-transform: uppercase;
+    white-space: pre;
+}
+.main_block {
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 10px;
+}
+.infa_text {
+    margin: 10px 0;
+    text-align: center;
+}

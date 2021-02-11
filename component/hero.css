@@ -1,0 +1,19 @@
+.hero {
+    background-color: rgba(243, 239, 239, 0.719);
+    padding: 100px 0;
+}
+.hero_section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /*flex-wrap: nowrap;*/
+}
+.hero_section img {
+    width: 440px;
+    padding-left: 60px;
+}
+.hero_img {
+    background-image: url(../img/palm-trees-3058728_1920.jpg);
+    height: 300px;
+    background-size: cover;
+}

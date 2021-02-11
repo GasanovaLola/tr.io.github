@@ -1,0 +1,11 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+.nav_item {
+    list-style-type: none;
+    padding: 10px;
+}
+.nav_item_span:hover {
+    border-bottom: 1px solid #333;
+}
